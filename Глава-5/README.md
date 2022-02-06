@@ -6,8 +6,7 @@
 ```sh
 $ git clone https://github.com/jumabekova06/Code-of-DjangoApiBook.git
 $ cd Code-of-DjangoApiBook
-$ cd Глава-3
-$ cd backend
+$ cd Глава-5
 
 ```
 
@@ -28,7 +27,7 @@ $ source venv/bin/activate
 
 (venv)$ python manage.py runserver
 ```
-навигация для API `http://127.0.0.1:8000/api/`.
+навигация для API `http://127.0.0.1:8000/api/v1`.
 
 навигация для детальной информации об объекте `http://127.0.0.1:8000/api/1`.
 
