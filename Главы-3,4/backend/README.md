@@ -1,4 +1,4 @@
-# Код из 2-главы книги "Django for API. Build web APIs with Python and Django. William S. Vincent" 
+# Код из 3 и 4-главы книги "Django for API. Build web APIs with Python and Django. William S. Vincent" 
 
 ## Настройка перед запуском
 
